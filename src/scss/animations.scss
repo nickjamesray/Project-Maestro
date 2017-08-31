@@ -1,0 +1,104 @@
+@-moz-keyframes poke-left {
+  0% {
+    left: -35px;
+  }
+  50% {
+    left: -40px;
+  }
+  100% {
+    left: -35px;
+  }
+}
+@-webkit-keyframes poke-left {
+  0% {
+    left: -35px;
+  }
+  50% {
+    left: -40px;
+  }
+  100% {
+    left: -35px;
+  }
+}
+@-o-keyframes poke-left {
+  0% {
+    left: -35px;
+  }
+  50% {
+    left: -40px;
+  }
+  100% {
+    left: -35px;
+  }
+}
+@keyframes poke-left {
+  0% {
+    left: -35px;
+  }
+  50% {
+    left: -40px;
+  }
+  100% {
+    left: -35px;
+  }
+}
+
+@-moz-keyframes poke-right {
+  0% {
+    right: -35px;
+  }
+  50% {
+    right: -40px;
+  }
+  100% {
+    right: -35px;
+  }
+}
+@-webkit-keyframes poke-right {
+  0% {
+    right: -35px;
+  }
+  50% {
+    right: -40px;
+  }
+  100% {
+    right: -35px;
+  }
+}
+@-o-keyframes poke-right {
+  0% {
+    right: -35px;
+  }
+  50% {
+    right: -40px;
+  }
+  100% {
+    right: -35px;
+  }
+}
+@keyframes poke-right {
+  0% {
+    right: -35px;
+  }
+  50% {
+    right: -40px;
+  }
+  100% {
+    right: -35px;
+  }
+}
+/* Loader from http://tobiasahlin.com/spinkit/ */
+@-webkit-keyframes sk-stretchdelay {
+  0%, 40%, 100% { -webkit-transform: scaleY(0.4) }  
+  20% { -webkit-transform: scaleY(1.0) }
+}
+
+@keyframes sk-stretchdelay {
+  0%, 40%, 100% { 
+    transform: scaleY(0.4);
+    -webkit-transform: scaleY(0.4);
+  }  20% { 
+    transform: scaleY(1.0);
+    -webkit-transform: scaleY(1.0);
+  }
+}

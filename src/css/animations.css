@@ -1,0 +1,31 @@
+@-moz-keyframes poke {
+  0% {
+    left: -35px; }
+  50% {
+    left: -40px; }
+  100% {
+    left: -35px; } }
+
+@-webkit-keyframes poke {
+  0% {
+    left: -35px; }
+  50% {
+    left: -40px; }
+  100% {
+    left: -35px; } }
+
+@-o-keyframes poke {
+  0% {
+    left: -35px; }
+  50% {
+    left: -40px; }
+  100% {
+    left: -35px; } }
+
+@keyframes poke {
+  0% {
+    left: -35px; }
+  50% {
+    left: -40px; }
+  100% {
+    left: -35px; } }

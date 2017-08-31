@@ -1,0 +1,41 @@
+{
+  "name": "sfh-phaser",
+  "version": "1.0.0",
+  "description": "Modules that support the Search for Harmony WordPress plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stone Soup Productions, Inc.",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.16.0",
+    "canvas-png-compression": "0.0.3",
+    "cropperjs": "^1.0.0-rc",
+    "lockr": "^0.8.4",
+    "path": "^0.12.7",
+    "phaser": "^2.6.2",
+    "phaser-list-view": "^1.3.0",
+    "prismjs": "^1.6.0",
+    "vee-validate": "^2.0.0-beta.25",
+    "vue": "^2.3.0",
+    "vue-prism": "^1.0.5",
+    "vue-prism-component": "^1.0.1",
+    "vue-router": "^2.4.0",
+    "vue-slider-component": "^2.3.1",
+    "vue-tabs-component": "^1.1.0",
+    "vuedraggable": "^2.9.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.0.0",
+    "cross-env": "^5.0.1",
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "vue-loader": "^12.2.1",
+    "vue-template-compiler": "^2.1.0",
+    "webpack": "^2.1.0-beta.25",
+    "webpack-dev-middleware": "^1.9.0"
+  }
+}
